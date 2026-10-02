@@ -1,9 +1,6 @@
-# KAP MCP
+# KAP MCP Server
 
-KAP'ın kamuya açık web uç noktalarını 10 görev odaklı MCP tool'una normalize eden Python 3.12+ stdio sunucusu.
-
-> KAP uç noktaları resmî, sürümlenmiş bir kamu API'si değildir. KAP web istemcisinden tersine çıkarılmıştır ve bildirim yapılmadan değişebilir. Son doğrulama: **30 Eylül 2026**. `upstream_changed` hatası bu sözleşmenin değişmiş olabileceğini belirtir.
-
+> KAP-MCP resmî, sürümlenmiş bir kamu API'si değildir. KAP web istemcisinden tersine çıkarılmıştır ve bildirim yapılmadan değişebilir.
 
 ### Kurulum Agents için prompt
 
