@@ -37,11 +37,13 @@ Klonlanan kaynak kodunu, testleri, README'yi, API belgelerini veya tool
 sözleşmelerini değiştirme. Canlı KAP sorgusu çalıştırma ve dosya indirme.
 Sonunda algılanan istemciyi, kurulum dizinini, kullanılan yapılandırma dosyasını,
 çalıştırma komutunu ve doğrulanan tool sayısını kısaca bildir.
-```
+
 Resmî istemci belgeleri:
 - [Claude Code MCP](https://code.claude.com/docs/en/mcp)
 - [Codex MCP](https://developers.openai.com/codex/mcp)
 - [Hermes Agent MCP](https://hermes-agent.nousresearch.com/docs/reference/mcp-config-reference)
+
+```
 
 ## Tool'lar
 1. `search_entities` — şirket/fon/üye araması; akıllı arama farklı kod döndürürse fon kataloğunda büyük/küçük harf duyarsız kesin kod eşleşmesine geri düşer.
