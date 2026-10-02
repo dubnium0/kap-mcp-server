@@ -1,7 +1,5 @@
 # KAP MCP Server
 
-> KAP-MCP resmî, sürümlenmiş bir kamu API'si değildir. KAP web istemcisinden tersine çıkarılmıştır ve bildirim yapılmadan değişebilir.
-
 ### Kurulum Agents için prompt
 
 ```text
